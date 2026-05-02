@@ -1,5 +1,5 @@
 {
-  "name": "seriacaptcha/sdk",
+  "name": "boyslove/sdk",
   "description": "SeriaCAPTCHA PHP SDK",
   "type": "library",
   "require": {
